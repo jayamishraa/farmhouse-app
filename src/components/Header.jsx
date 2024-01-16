@@ -25,7 +25,9 @@ export default function ButtonAppBar() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             News
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Link to='login'>
+            <Button color="inherit">Login</Button>
+          </Link>
           <Link to='/notification'>
             <Button color="inherit">Notification</Button>
           </Link>
