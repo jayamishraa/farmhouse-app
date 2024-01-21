@@ -1,0 +1,48 @@
+{
+    "hero_heading": "Shamiii bhaiiiiii ke aage koi bol skta hai kya",
+    "hero_background_image": "https://picsum.photos/1200/600",
+    "images_map": [
+        {
+            "name": "Fun Activities",
+            "images": [
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300"
+            ]
+        },
+        {
+            "name": "Other Activities",
+            "images": [
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300"
+            ]
+        },
+        {
+            "name": "Fun Activities",
+            "images": [
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300",
+                "https://picsum.photos/300"
+            ]
+        }
+    ]
+}
